@@ -2,7 +2,7 @@
 
 This styleguide template contains many common HTML elements. You can use it to demonstrate the look of your designs across a variety of content.
 
-If you'd like to contribute, make your changes to both the [markdown](https://github.com/bryanbraun/frontend-styleguide/blob/master/README.md) and [HTML](https://github.com/bryanbraun/frontend-styleguide/blob/master/styleguide.html) files. If the elements won't render in markdown (like forms, for example), you can just add them to the final section of [styleguide.html](https://github.com/bryanbraun/frontend-styleguide/blob/master/styleguide.html).
+If you'd like to contribute, make your changes to both the [markdown](https://github.com/OCG-labs/frontend-styleguide/blob/master/README.md) and [HTML](https://github.com/OCG-labs/frontend-styleguide/blob/master/styleguide.html) files. If the elements won't render in markdown (like forms, for example), you can just add them to the final section of [styleguide.html](https://github.com/OCG-labs/frontend-styleguide/blob/master/styleguide.html).
 
 * * *
 
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, _this text is emphasized_ consectetuer adipiscing el
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.
 
-> "This is a blockquote. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl." 
+> "This is a blockquote. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl."
 > -Author
 
 #  Text Elements
@@ -175,4 +175,4 @@ Monospace Text wrapped in "pre" tags:
 
 # Fieldsets, Legends, and Form Elements
 
-This last section contains elements that don't render well in markdown. Please consult the final section in [styleguide.html](https://github.com/bryanbraun/frontend-styleguide/blob/master/styleguide.html), to see the rest of the styleguide.
+This last section contains elements that don't render well in markdown. Please consult the final section in [styleguide.html](https://github.com/OCG-labs/frontend-styleguide/blob/master/styleguide.html), to see the rest of the styleguide.
